@@ -1,0 +1,22 @@
+body {
+  background-color: red;
+  color: white
+}
+
+td {
+  background-color: yellow;
+}
+th{
+  background-color: yellow;
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+h1{
+  color: black;
+}
+p{
+  font-family: verdana;
+  font-size: 15px;
+}
